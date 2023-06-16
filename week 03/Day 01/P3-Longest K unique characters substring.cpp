@@ -1,10 +1,8 @@
 //problem link : https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1
 
-class Solution
-{
+class Solution{
 public:
-    int longestKSubstr(string s, int k)
-    {
+    int longestKSubstr(string s, int k){
         int n = s.size();
         int freq[26] = {0};
         int unq=0, ans=-1;
