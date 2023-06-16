@@ -23,3 +23,9 @@ int longestSubarrayWithSumK(vector<int> a, long long k){
     }
     return ans;
 }
+
+
+/**
+    time complexity : O(n)
+    space complexity : O(n)
+*/
