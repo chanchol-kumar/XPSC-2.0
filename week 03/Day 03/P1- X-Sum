@@ -1,0 +1,72 @@
+//problem link : https://codeforces.com/contest/1676/problem/D
+
+#include<bits/stdc++.h>
+using namespace std;
+
+#define endl '\n';
+#define optimize() ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
+
+int main()
+{
+    optimize();
+
+    int t;
+    cin >> t;
+    while(t--)
+    {
+        long long n,m;
+        cin>>n>>m;
+        long long a[n][m];
+        for(long long i=0; i<n; i++)
+        {
+            for(long long j=0; j<m; j++)
+            {
+                cin>>a[i][j];
+            }
+        }
+
+        long long ans=0,sum,x,y;
+        for(long long i=0; i<n; i++)
+        {
+            for(long long j=0; j<m; j++)
+            {
+                sum = a[i][j];
+                x = j-1;
+                y = j+1;
+                for(long long k=i-1; k>=0;k--)
+                {
+                    if(x>=0)
+                    {
+                        sum+=a[k][x];
+                        x--;
+                    }
+                    if(y<m)
+                    {
+                        sum+=a[k][y];
+                        y++;
+                    }
+                }
+                x = j-1;
+                y = j+1;
+                for(long long k=i+1; k<n; k++)
+                {
+                    if(x>=0)
+                    {
+                        sum+=a[k][x];
+                        x--;
+                    }
+                    if(y<m)
+                    {
+                        sum+=a[k][y];
+                        y++;
+                    }
+                }
+                if(sum>ans)
+                    ans = sum;
+            }
+        }
+        cout<<ans<<endl;
+    }
+
+    return 0;
+}
