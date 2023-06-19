@@ -8,6 +8,6 @@ problem 3:[ Vlad Building Beautiful Array ](https://codeforces.com/contest/1833/
 
 problem 4:[ Remove Two Letters ](https://codeforces.com/contest/1800/problem/D)
 
-problem :[ A+B? ](https://codeforces.com/contest/1772/problem/A)
+problem 5:[ A+B? ](https://codeforces.com/contest/1772/problem/A)
 
 problem 6:[ Yes-Yes? ](https://codeforces.com/contest/1759/problem/A)
