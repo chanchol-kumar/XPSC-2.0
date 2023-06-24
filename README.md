@@ -5,5 +5,3 @@
 </p>
 
 <h1><p style="text-align: center;">Xettabytes Programming Solving Club -2.0</p></h1>
-
-### future loading....
