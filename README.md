@@ -1,1 +1,2 @@
-# XPSC-2.0
+
+# Xettabytes Programming Solving Club -2.0
