@@ -1,4 +1,4 @@
-# Day 06 (28-06-23)
+# Day 06
 
 problem 01 : [ Compare T-Shirt Sizes ](https://codeforces.com/contest/1741/problem/A)
 
