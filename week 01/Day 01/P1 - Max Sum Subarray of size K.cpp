@@ -3,7 +3,6 @@
 long maximumSumSubarray(int k, vector<int> &arr , int n){
         long int mx =INT_MIN,sum=0;
         int i=0,j=0;
-        
         while(j<n)
         {
             sum+=arr[j];
