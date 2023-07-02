@@ -14,8 +14,7 @@ int main()
     cin>>n>>x;
 
     ll arr[n];
-    for(ll i=0; i<n; i++)
-        cin>>arr[i];
+    for(ll i=0; i<n; i++) cin>>arr[i];
 
     sort(arr,arr+n);
     reverse(arr, arr+n);
