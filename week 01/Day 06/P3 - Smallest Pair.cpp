@@ -33,6 +33,5 @@ int main()
         }
         cout<<min_val<<endl;
     }
- 
     return 0;
 }
