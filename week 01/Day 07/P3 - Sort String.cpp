@@ -12,6 +12,7 @@ int main()
     optimize();
     int n;
     cin>>n;
+    
     int arr[123]={};
     for(int i=0; i<n; i++)
     {
