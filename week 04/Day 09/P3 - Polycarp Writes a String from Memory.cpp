@@ -27,7 +27,6 @@ int main()
                 st.clear();
             }
         }
-
         if(st.empty()) cout<<cnt<<endl;
         else cout<<cnt+1<<endl;
     }
