@@ -14,7 +14,7 @@
 |03|07|37|
 |04|11|44|
 |05|07|35|
-|06|-|-|
+|06|07|31|
 |07|-|-|
 
 Note : There are some recurring issues. When you get recurring problems, which you have solved in the past. Now your task is to solve it in short time .Which will be good practice for you. Happy coding!
