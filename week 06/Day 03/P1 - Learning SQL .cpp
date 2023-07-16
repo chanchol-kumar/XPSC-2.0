@@ -13,6 +13,5 @@ int main()
     cin>>a>>b>>c;
 
     cout<<(a+c)*b<<endl;
-
     return 0;
 }
