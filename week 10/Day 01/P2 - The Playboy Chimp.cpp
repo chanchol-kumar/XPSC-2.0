@@ -1,4 +1,4 @@
-//problem link : https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1415&fbclid=IwAR1AvrmyvzCf-NszbOsz3oAAVcv84Q7gxbY18sasMFrvTrwKFd7DCyiNsHU
+//problem link : https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1552&fbclid=IwAR3MYo_0XKPMmMVJzL1SzIkOOFGnFiHJbQD2dPF7ZIq8ZkYNit1FME7F2xM
 
 #include<bits/stdc++.h>
 using namespace std;
