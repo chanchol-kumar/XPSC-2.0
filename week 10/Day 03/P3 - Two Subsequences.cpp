@@ -19,5 +19,6 @@ int main()
         s.erase(min_element(s.begin(), s.end()));
         cout << s << endl;
     }
+
     return 0;
 }
