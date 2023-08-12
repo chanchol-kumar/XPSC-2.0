@@ -16,7 +16,6 @@ int main()
     {
         int n;
         cin >> n;
-
         ll fact = 1;
         for (int i = 3; i <= 2 * n; i++)
         {
