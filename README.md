@@ -7,19 +7,19 @@
 <h1><p style="text-align: center;">Xettabytes Programming Solving Club -2.0</p></h1>
 
 ### Phase 01 : 
-|Week|Total Day|Problem Count|Accepted|Success Rate(%)|
-|-|-|-|-|-|
-|01|07|40|||
-|02|07|39|||
-|03|07|37|||
-|04|11|44|||
-|05|07|35|||
-|06|07|31|||
-|07|07|43|||
-|08|07|32|||
-|09|07|28|||
-|10|07|29|||
-|11|07|28|||
+|Week|Total Day|Weekly Class Topics|Problem Count|Accepted|Success Rate(%)|
+|-|-|-|-|-|-|
+|01|07|Sliding Window Technique-l|40|||
+|02|07|Contest Problem Discussion|39|||
+|03|07|Sliding Window Technique-ll|37|||
+|04|11|Bitwise Operations|44|||
+|05|07|Bit Manipulation-l|35|||
+|06|07|Bit Manipulation-ll|31|||
+|07|07|Policy Based Data Structures|43|||
+|08|07|Custom comparator|32|||
+|09|07|Difference array|28|||
+|10|07|Binary Search|29|||
+|11|07|Binary Search & Hashing|28|||
 
 ### Total Problem : 386
 
