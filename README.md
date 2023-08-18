@@ -18,6 +18,9 @@
 |07|07|43|||
 |08|07|32|||
 |09|07|28|||
-|10|07|  |||
+|10|07|29|||
+|10|07|28|||
+
+### Total Problem : 386
 
 Note : There are some recurring issues. When you get recurring problems, which you have solved in the past. Now your task is to solve it in short time .Which will be good practice for you. Happy coding!
