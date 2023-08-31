@@ -20,7 +20,8 @@
 |09|07|Difference array|28|||
 |10|07|Binary Search|29|||
 |11|07|Binary Search & Hashing|28|||
+|12|07|Math + Number Theory-l|28|||
 
-### Total Problem : 386
+### Total Problem : 414
 
 Note : There are some recurring issues. When you get recurring problems, which you have solved in the past. Now your task is to solve it in short time .Which will be good practice for you. Happy coding!
