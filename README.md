@@ -6,6 +6,10 @@
 
 <h1><p style="text-align: center;">Xettabytes Programming Solving Club -2.0</p></h1>
 
+### All Class Material : [ codes ](https://github.com/phitronio/XPSC_Batch_02)
+### Div-2 Solve Class (XPSC Batch-02) : [ codes ](https://github.com/phitronio/Div-2-solve-class-codes-XPSC-Batch-02)
+#
+
 ### Phase 01 : 
 |Week|Total Day|Weekly Class Topics|Problem Count|Accepted|Success Rate(%)|
 |-|-|-|-|-|-|
