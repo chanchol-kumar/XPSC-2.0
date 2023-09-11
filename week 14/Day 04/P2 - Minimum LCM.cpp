@@ -25,5 +25,6 @@ int main()
         }
         cout << a << ' ' << n - a << '\n';
     }
+    
     return 0;
 }
