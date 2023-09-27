@@ -30,6 +30,6 @@
 |15|07||28|||
 |16|05||17|||
 
-### Total Problem : 414
+### Total Problem : 514
 
 Note : There are some recurring issues. When you get recurring problems, which you have solved in the past. Now your task is to solve it in short time .Which will be good practice for you. Happy coding!
