@@ -25,6 +25,10 @@
 |10|07|Binary Search|29|||
 |11|07|Binary Search & Hashing|28|||
 |12|07|Math + Number Theory-l|28|||
+|13|07||27|||
+|14|07||28|||
+|15|07||28|||
+|16|05||17|||
 
 ### Total Problem : 414
 
